@@ -1,0 +1,3 @@
+[submodule "docs/docsifyblog-plugins"]
+	path = docs/docsifyblog-plugins
+	url = https://github.com/blessingIX/docsifyblog-plugins.git
