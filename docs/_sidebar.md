@@ -2,3 +2,4 @@
     - Java
       - JVM
         - [Java内存区域](java/jvm/rtda.md)
+        - [垃圾收集器与内存分配策略](java/jvm/gc.md)
