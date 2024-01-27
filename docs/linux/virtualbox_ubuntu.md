@@ -2,7 +2,7 @@
 
 ## 下载并安装VirtualBox
 
-[VirtualBox下载连接](https://www.virtualbox.org/wiki/Downloads)
+[VirtualBox官网下载页](https://www.virtualbox.org/wiki/Downloads)
 
 ![](image/image.png)
 
