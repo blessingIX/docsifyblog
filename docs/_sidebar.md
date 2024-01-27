@@ -6,4 +6,4 @@
         <!-- - [垃圾收集器](java/jvm/gc.md) -->
         - [虚拟机性能监控、故障处理工具](java/jvm/jdktool.md)
     - [Linux]()
-      - [VirtualBox安装Ubuntu20.04(server)系统的实现步骤](linux/virtualbox_ubuntu.md)
+      - [VirtualBox安装Ubuntu20.04(server)虚拟机](linux/virtualbox_ubuntu.md)
