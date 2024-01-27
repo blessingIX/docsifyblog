@@ -45,7 +45,7 @@ public class MethodInvoke {
 
 ![方法调用过程](image/method_invoke_process.drawio.png)
 
-局部变量表中存储各种Java虚拟机基本数据类、对象引用和returnAddress类型。操作数栈用于存储Java虚拟机指令的执行结果数据。Java虚拟机在调用方法时为方法创建栈帧时，局部变量表和操作数栈的大小是固定的。它们的大小在编译器就已经由编译器计算好并固定下来存入字节码的属性表中。
+局部变量表中存储各种Java虚拟机基本数据类、对象引用和returnAddress类型。操作数栈用于存储字节码指令的执行结果数据。Java虚拟机在调用方法时为方法创建栈帧时，局部变量表和操作数栈的大小是固定的。它们的大小在编译器就已经由编译器计算好并固定下来存入字节码的属性表中。
 
 ![max_stack max_locals](image/image-1.png)
 

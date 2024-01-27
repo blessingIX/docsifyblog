@@ -1,0 +1,3 @@
+## 为什么重写`equals`方法时一定要重写`hashCode`方法
+
+Object规范中，如果equals相等，那么两个对象就相同，hashCode也必然相等，如果重写equals而不重写hashCode，那么就可能导致两个相同对象的hashCode不想等，最大的影响是使用散列集合比如HashSet，HashMap的时候，因为其put方法会先二次hash计算出桶下标，再通过equals判断，如果hashCode不想等，那么桶下标位置不想等，就会被认作是两个不同的对象，key就重复了。
