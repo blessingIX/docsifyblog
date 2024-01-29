@@ -139,7 +139,7 @@
 
 ### 测试虚拟机访问主机网络
 
-1. 输入`ping www.baudu.com`测试能否访问主机的网络
+1. 输入`ping www.baudi.com`测试能否访问主机的网络
 
    ![](image/image-29.png)
 
@@ -160,7 +160,7 @@
    1. 输入命令`ifconfig |grep inet`
    2. 查找虚拟机ip，通常是192.xxx.xxx.xxx
 
-3. 使用`Xshell`、`MobaXterm`等终端工具连接虚拟机
+3. 使用`Xshell`、`MobaXterm`等终端工具连接虚拟机，以`MobaXterm`为例
 
    ![](image/image-32.png)
 

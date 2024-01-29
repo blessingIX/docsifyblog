@@ -7,3 +7,5 @@
         - [虚拟机性能监控、故障处理工具](java/jvm/jdktool.md)
     - [Linux]()
       - [VirtualBox安装Ubuntu20.04(server)虚拟机](linux/virtualbox_ubuntu.md)
+    - [MySQL]()
+      - [启动选项、系统变量、状态变量](mysql/options__variables__status.md)
