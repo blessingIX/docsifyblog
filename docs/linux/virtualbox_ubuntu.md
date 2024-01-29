@@ -139,7 +139,7 @@
 
 ### 测试虚拟机访问主机网络
 
-1. 输入`ping www.baudi.com`测试能否访问主机的网络
+1. 输入`ping www.baidu.com`测试能否访问主机的网络
 
    ![](image/image-29.png)
 
